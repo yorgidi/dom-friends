@@ -1,0 +1,45 @@
+{
+  "ProjectName": "DOM-Friends-dev Hybrid",
+  "ProjectGuid": "d01bae6c-373c-4eb6-9cc3-e9fd1279e1a5",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.DOMFriendsdevHybrid",
+  "DisplayName": "DOM-Friends-dev Hybrid",
+  "Author": "",
+  "Description": "DOM-Friends-dev Hybrid",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{7975e293-ed7f-4464-915c-78e6c511b9cc}",
+  "WP8ProductID": "{afe8c60a-81a9-47de-b9d9-d7adee13ad29}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.DOMFriendsdevHybrid",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
